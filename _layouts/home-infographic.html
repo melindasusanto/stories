@@ -6,24 +6,22 @@ layout: page
 
   <div class="col-md-8">
 
-    {% include index/description.html %}
-    {% include index/carousel.html title="Sample Items" %}
+    {% comment %}{% include index/description.html %}{% endcomment %}
+    {% include index/carousel.html title="Explore" %}
     
   </div>
   <div class="col-md-4">  
 
     {% include index/time.html %}
 
-    {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="primary" %}
-
     {% include index/featured-terms.html field="location" title="Locations" btn-color="outline-secondary" %}
     
-    {% include index/content.html %}
+    {% comment %}{% include index/content.html %}{% endcomment %}
 
   </div>
   <div class="col-md-12">
 
-    {% include index/data-download.html %}
+    {% comment %}{% include index/data-download.html %}{% endcomment %}
 
   </div>
 

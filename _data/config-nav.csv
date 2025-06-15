@@ -1,7 +1,9 @@
 display_name,stub,dropdown_parent
 Home,/,
 Browse,/browse.html,
-Stories,/story1.html,
+Stories,,
+Story 1,/story1.html,Stories
+Story 2,/story2.html,Stories
 Subjects,/subjects.html,
 Locations,/locations.html,
 Map,/map.html,

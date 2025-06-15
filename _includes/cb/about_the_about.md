@@ -30,6 +30,11 @@ The archival sources featured in this collection comes from the Dutch East India
 Archival transcriptions are generated through GLOBALISE's [Transcriptions Viewer](https://transcriptions.globalise.huygens.knaw.nl).
 
 
+### How to cite this page
+{% include feature/alert.html text="'Stories from the Archives', GLOBALISE project, Huygens Institute, 2025." color="info" align="left"  %}
+
+Individual stories are subject to copyright of their respective authors. Please scroll down each story find to find the specific citation.
+
 {% comment %}
 The template provides includes to pull your collection objects and metadata into your interpretive page, allowing you to write with your materials directly embedded in the content.
 #### Include an Image
