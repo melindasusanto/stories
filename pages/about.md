@@ -20,20 +20,8 @@ padding: 6em
 
 ## About this Stories collection
 
-This is a template collection where featured stories from the archives of the Dutch East India Company will be featured. In the form of visual essays concentrating on curious new stories unearthed from the archives, complemented with visual and material sources from other collections.
+This collection  will feature stories from archives of the Dutch East India Company. These visual essays aim to highlight interesting stories unearthed from the archives, giving voice to previously silenced historical actors and processes. These stories drawn from the archives will be complemented with visual and material sources from other digital collections. 
 
-This collection is currently being developed by the [GLOBALISE project](https://globalise.huygens.knaw.nl/), Huygens Institute, KNAW, the Netherlands.
+This initiative is being developed by the [GLOBALISE project](https://globalise.huygens.knaw.nl/), Huygens Institute, KNAW, the Netherlands.
 
-The archival sources featured in this collection comes from the Dutch East India Company archives, 1.04.02 at [Nationaal Archief, Den Haag](https://www.nationaalarchief.nl/en/research/archive/1.04.02).
-
-Archival transcriptions are generated through GLOBALISE's (Transcriptions Viewer)(https://transcriptions.globalise.huygens.knaw.nl).
-
-Do you have an interesting story to share? Would you contribute to our collection?
-[Get in touch with us!](https://globalise.huygens.knaw.nl/contact-us/)
-
-For inspiration, feel free to [explore](/browse.html) stories in this website, on our [blog](https://globalise.huygens.knaw.nl/globalise-blog/), and read more about others who are [working with us](https://globalise.huygens.knaw.nl/work-with-us/).
-
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
