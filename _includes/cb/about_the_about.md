@@ -31,7 +31,7 @@ Archival transcriptions are generated through GLOBALISE's [Transcriptions Viewer
 
 
 ### How to cite this page
-{% include feature/alert.html text="'Stories from the Archives', GLOBALISE project, Huygens Institute, 2025." color="info" align="left"  %}
+{% include feature/alert.html text="'Stories from the Archives', [GLOBALISE project](https://globalise.huygens.knaw.nl/), Huygens Institute, 2025." color="info" align="left"  %}
 
 Individual stories are subject to copyright of their respective authors. Please scroll down each story find to find the specific citation.
 
